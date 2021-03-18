@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718286281210",
+    "project_id": "wecall-88552",
+    "storage_bucket": "wecall-88552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718286281210:android:de918b9940d385500a6c43",
+        "android_client_info": {
+          "package_name": "com.example.wecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718286281210-4qq24hsv812k4qockk5khf721shv4agu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsX1gilOO13hvfBuDSxsX3urSSRPGc9Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718286281210-4qq24hsv812k4qockk5khf721shv4agu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
